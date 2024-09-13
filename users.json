@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Renee",
+    "last_name": "Dolling",
+    "email": "rdolling0@twitter.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Birch",
+    "last_name": "Faley",
+    "email": "bfaley1@soundcloud.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Stephana",
+    "last_name": "Holdron",
+    "email": "sholdron2@spiegel.de",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Silvano",
+    "last_name": "Bysh",
+    "email": "sbysh3@bbb.org",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Morgan",
+    "last_name": "Harden",
+    "email": "mharden4@bigcartel.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Tootsie",
+    "last_name": "Yong",
+    "email": "tyong5@51.la",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Stuart",
+    "last_name": "Houlworth",
+    "email": "shoulworth6@businessinsider.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Peg",
+    "last_name": "Dyerson",
+    "email": "pdyerson7@xing.com",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Dag",
+    "last_name": "Fundell",
+    "email": "dfundell8@google.es",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Hortensia",
+    "last_name": "Bengough",
+    "email": "hbengough9@liveinternet.ru",
+    "gender": "Female"
+  }
+]
